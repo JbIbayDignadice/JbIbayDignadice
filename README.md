@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**JbIbayDignadice/JbIbayDignadice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! My name is Jb Ibay Dignadice, 2nd Year, College of Information Technology, with a skillset of database scripting, Java coding, and Website design.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Education 📚
+  New Era University
+  2nd Year College of IT
+  SY 2024-Present
+
+## Certification 📜
+  
+
+## Skillset ✨
+  - Java
+  - Database
+  - Web Designer
+
+## Link Me 🔗
+  Gmail: jid303op@gmail.com
