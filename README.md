@@ -4,9 +4,9 @@ Hello! My name is Jb Ibay Dignadice, 2nd Year, College of Information Technology
 
 
 ## Education 📚
-  New Era University
-  2nd Year College of IT
-  SY 2024-Present
+  - New Era University
+  - 2nd Year College of IT
+  - SY 2024-Present
 
 ## Certification 📜
   
