@@ -5,7 +5,7 @@ Hello! My name is Jb Ibay Dignadice, 3rd Year, College of Information System, wi
 
 ## Education 📚
   - New Era University
-  - 3rd Year College of Is
+  - 3rd Year College of Information System
   - SY 2024-Present
 
 ## Certification 📜
