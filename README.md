@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-Hello! My name is Jb Ibay Dignadice, 2nd Year, College of Information Technology, with a skillset of database scripting, Java coding, and Website design.
+Hello! My name is Jb Ibay Dignadice, 3rd Year, College of Information System, with a skillset of database scripting, Java coding, and Website design.
 
 
 ## Education 📚
   - New Era University
-  - 2nd Year College of IT
+  - 3rd Year College of Is
   - SY 2024-Present
 
 ## Certification 📜
@@ -18,6 +18,11 @@ Hello! My name is Jb Ibay Dignadice, 2nd Year, College of Information Technology
   - Java
   - Database
   - Web Designer
+  - Business Analysis
+  - Data Analysis
 
 ## Link Me 🔗
   Gmail: jid303op@gmail.com
+  Facebook: Jb Ibay Dignadice
+  Telegram: Jbdice
+  
